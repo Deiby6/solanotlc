@@ -1,0 +1,18 @@
+Package: solanotlc
+Type: Package
+Title: Simulacion de promedio y razon TLC
+Version: 0.1.0
+Author: person(given="Deiby",family="Solano",role=c("aut","cre"),email="deiby6@hotmail.com")
+Maintainer: <deiby6@hotmail.com>
+Description: Este paquete permite simular en diferentes poblaciones cual es el comportamiento de el promedio y la razón
+    según el Teorema del límite central. Además, permite modificar los tamaños de muestra y la cantidad de repeticiones. 
+    La idea es que se pueda ver como afecta la normalidad del promedio la distribución de la variable, esto podría significar 
+    que cuando se cálcule un intervalo de confianza X, probablemente en estos casos se esté sobreestimando la confianza. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    here,
+    fs,
+    testthat

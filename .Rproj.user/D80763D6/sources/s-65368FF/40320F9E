@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562724783730.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2546231537",
+    "id" : "40320F9E",
+    "lastKnownWriteTime" : 1562794059,
+    "last_content_update" : 1562794059634,
+    "path" : "C:/Users/Deiby S/Desktop/Programacion avanzada R/Clase 3/solanotlc/tests/archivos_pruebas.R",
+    "project_path" : "tests/archivos_pruebas.R",
+    "properties" : {
+        "cursorPosition" : "11,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

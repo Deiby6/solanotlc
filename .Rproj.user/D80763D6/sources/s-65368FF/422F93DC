@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562724729312.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "422F93DC",
+    "lastKnownWriteTime" : 1562729343,
+    "last_content_update" : 1562729343953,
+    "path" : "C:/Users/Deiby S/Desktop/Programacion avanzada R/Clase 3/solanotlc/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+        "cursorPosition" : "3,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

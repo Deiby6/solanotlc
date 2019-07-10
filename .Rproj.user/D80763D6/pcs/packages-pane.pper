@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/Deiby S/Desktop/Programacion avanzada R/Clase 3/solanotlc/packrat/lib/x86_64-w64-mingw32/3.5.1"
+    }
+}
